@@ -7,3 +7,5 @@ Use all of this information for your own vault in Obsidian. You may copy, alter 
 
 - blog: ... (will be added later)
 - Youtube: ... (will be added later)
+
+> Productivity can only start where friction and redundance disappear. 
